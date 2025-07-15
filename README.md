@@ -35,3 +35,5 @@ The URL in this case is `https://ojkx.vizcloud.co/simple/EqPFJvsQWADtjDlGha7rC8U
 
 ## Credit
 Inspired by [this](https://github.com/chaycee/M3U8Proxy) repository. I received some help from [chaycee](https://github.com/chaycee) as well. This project also uses code from [this CORS proxy](https://github.com/Rob--W/cors-anywhere).
+
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Mr-Choudhary-codes/M3U8-Proxy)
